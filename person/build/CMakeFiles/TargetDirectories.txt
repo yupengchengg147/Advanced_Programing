@@ -1,0 +1,3 @@
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/person/build/CMakeFiles/panSimul.dir
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/person/build/CMakeFiles/edit_cache.dir
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/person/build/CMakeFiles/rebuild_cache.dir

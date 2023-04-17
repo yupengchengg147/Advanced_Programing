@@ -1,0 +1,3 @@
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/Student_Course/build/CMakeFiles/main.dir
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/Student_Course/build/CMakeFiles/edit_cache.dir
+/home/yu/Desktop/Cpp_projects/cpp exercise/ex5 oop_1/Student_Course/build/CMakeFiles/rebuild_cache.dir
